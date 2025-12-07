@@ -1,0 +1,34 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "Simple API to learn more about backend development with NodeJs",
+  "keywords": [
+    "Express",
+    "JS",
+    "Node",
+    "MongoDB"
+  ],
+  "homepage": "https://github.com/the-mirage/simple-api#readme",
+  "bugs": {
+    "url": "https://github.com/the-mirage/simple-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-mirage/simple-api.git"
+  },
+  "license": "MIT",
+  "author": "brayarn",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ava": "^6.4.1",
+    "body-parser": "^2.2.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.5"
+  }
+}
